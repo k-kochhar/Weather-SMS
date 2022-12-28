@@ -7,4 +7,8 @@ this repository.
 Anyways it uses the information off a google form, specifically their state and city, to generate an API request that includes their current weather stats provided by
 the OpenWeather API. Using the information from the API, it then customizes a text sent to their phone, using their name, city, and weather data. 
 
+If you want to sign up for the daily weather text at 7:00am EST, fill out the following Google Form 
+
+https://forms.gle/HE1gpz1LcWa1ocFz5
+
 If you have any questions, please let me know. 
